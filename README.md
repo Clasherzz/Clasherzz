@@ -26,3 +26,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clasherzz&show_icons=true&locale=en" alt="clasherzz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clasherzz&" alt="clasherzz" /></p>
+  ### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/govindkm20044?theme=auto&font=baloo&extension=null)
+
+  </div>
+
+  ### Codeforces
+  <div align="center">
+
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=govindkm20044)
+
+  </div>
